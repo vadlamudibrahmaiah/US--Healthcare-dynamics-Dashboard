@@ -1,0 +1,37 @@
+Project Title: US Healthcare Dynamics Dashboard
+
+Description:
+The US Healthcare Dynamics Dashboard is a Power BI data visualization project designed to analyze healthcare trends and patient-related data across different regions in the United States. The dashboard provides insights into patient demographics, treatment costs, hospital performance, and healthcare utilization.
+
+Dataset Includes:
+
+Patient demographics
+
+Hospital details
+
+Treatment costs
+
+Admission and discharge data
+
+Regional healthcare statistics
+
+Tools Used:
+
+Power BI
+
+Microsoft Excel
+
+Power Query
+
+Features:
+
+Region-wise healthcare analysis
+
+Patient demographic insights
+
+Treatment cost visualization
+
+Interactive charts, filters, and KPIs for better data exploration
+
+Outcome:
+This dashboard helps healthcare organizations and analysts understand healthcare trends, identify patterns in patient care, and support better decision-making using data-driven insights
